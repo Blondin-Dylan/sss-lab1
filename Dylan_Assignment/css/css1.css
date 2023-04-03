@@ -1,0 +1,57 @@
+#suck{
+    background-color: aquamarine;
+    color: black;
+    width: 50%;
+    float: left;
+}
+
+.pg{
+    font-size: 15pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: right;
+    width: 50%;
+}
+
+#tv{
+    background-color: black;
+    color: white;
+    font-size: 13pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: right;
+}
+
+#sev{
+    font-size: 13pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.qwop{
+    font-size: 24pt;
+    font-family: cursive;
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+}
+
+.powq{
+    font-size: 12pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+
+}
+
+.saw{
+    font-size: 24pt;
+    font-family: cursive;
+    text-align: center;
+    width: 33%;
+    margin: 0;
+    padding: 0;
+   
+    float: left;
+}
